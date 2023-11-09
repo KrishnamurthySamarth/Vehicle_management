@@ -1,0 +1,6 @@
+Member Key        : 100
+Owner Name        : sam
+Owner Address     : bangalore
+Phone Number      : 9980765432
+Minimum Balance   : 500
+

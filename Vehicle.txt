@@ -1,0 +1,7 @@
+MEMBER KEY   : 100
+REG NO       : KA45-0099
+TYPE         : Two-Wheeler
+TIME-IN      : Tue Jul 11 13:27:58 2023
+
+OUT-TIME     : Tue Jul 11 13:28:09 2023
+
